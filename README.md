@@ -1,8 +1,8 @@
-- 👋 Jake Brauckmann
-- 👀 Interested in golf, fitness, economics, business strategy, manufacturing, engineering, innovation, and simplicity
-- 🌱 Currently learning how to leverage AI in developing code that can streamline engineering, manufacturing, logistics, and documentation processes
-- 💞️ Building my knowledge base so that I can eventually collaborate and add value to small projects
-- 📫 jbrauckm@gmail.com
+-  Jake Brauckmann
+-  Interested in golf, fitness, economics, business strategy, manufacturing, engineering, innovation, and simplicity
+-  Currently learning how to leverage AI in developing code that can streamline engineering, manufacturing, logistics, and documentation processes
+-  Building my knowledge base so that I can eventually collaborate and add value to small projects
+-  jbrauckm@gmail.com
 
 
 <!---
